@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "categories": ["Finance", "Business"],
+        "isPublic": true
+    },
+
+    {
+        "id": 2,
+        "title": "qui est esse",
+        "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+        "categories": ["Movies", "Entertainment", "Fitness"],
+        "isPublic": true
+    },
+
+    {
+        "id": 3,
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+        "categories": ["Business", "Movies"],
+        "isPublic": false
+    },
+
+    {
+        "id": 4,
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+        "categories": ["Business", "Movies"],
+        "isPublic": true
+    },
+
+    {
+        "id": 5,
+        "title": "eum et est occaecati",
+        "description": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+        "categories": ["Business"],
+        "isPublic": false
+    },
+
+    {
+        "id": 6,
+        "title": "optio molestias id quia eum",
+        "description": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error",
+        "categories": ["Business", "Movies", "Entertainment"],
+        "isPublic": true
+    },
+
+    {
+        "id": 7,
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+        "categories": ["Entertainment", "Movies"],
+        "isPublic": false
+    },
+
+    {
+        "id": 8,
+        "title": "dolorum ut in voluptas mollitia et saepe quo animi",
+        "description": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
+        "categories": ["Business", "Entertainment"],
+        "isPublic": true
+    },
+
+    {
+        "id": 9,
+        "title": "voluptatem eligendi optio",
+        "description": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum",
+        "categories": ["Travel", "Entertainment"],
+        "isPublic": true
+    },
+
+    {
+        "id": 10,
+        "title": "adipisci placeat illum aut reiciendis qui",
+        "description": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas",
+        "categories": ["Food", "Fitness", "Sports"],
+        "isPublic": true
+    }
+]
